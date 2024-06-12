@@ -71,11 +71,5 @@ AI-powered art restoration involves utilizing advanced machine learning techniqu
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests with detailed descriptions of the changes.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 We would like to thank the contributors of TensorFlow, PyTorch, Keras, OpenCV, scikit-image, and other open-source projects that made this work possible. Additionally, we extend our gratitude to museums, galleries, and archives for providing high-resolution scans and images of artworks for research purposes.
-
-## Contact
-For questions or feedback, please contact [your email address].
